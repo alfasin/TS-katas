@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var NumberCollection_1 = require("./NumberCollection");
+var SortedString_1 = require("./SortedString");
+var nc = new NumberCollection_1.NumberCollection([4, 2, 6, 7, 9, 3, -1, -5]);
+var nc2 = new SortedString_1.SortedString("dbcaefg");
+nc2.sort();
+nc.sort();
+console.log("" + nc);
+console.log("" + nc2);

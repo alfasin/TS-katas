@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c7d99e9-577c-4079-b514-e65d2a04b8d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/build/AppRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/build/controllers/LoginController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/build/controllers/RootController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/build/controllers/controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/build/controllers/decorators/MetadataKeys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/build/controllers/decorators/Methods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/build/controllers/decorators/bodyValidator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/build/controllers/decorators/controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/build/controllers/decorators/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/build/controllers/decorators/routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/build/controllers/decorators/use.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/build/controllers/routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/build/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/build/routes/loginRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/AppRouter.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/controllers/LoginController.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/controllers/RootController.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/controllers/decorators/MetadataKeys.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/controllers/decorators/Methods.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/controllers/decorators/bodyValidator.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/controllers/decorators/controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/controllers/decorators/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/controllers/decorators/routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/controllers/decorators/use.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/.idea/sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/build/NumberCollection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/build/Sortable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/build/SortedString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/build/Sorter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/build/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/src/NumberCollection.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/src/Sortable.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/src/SortedString.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/src/Sorter.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/.idea/stats.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/build/Analyzer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/build/CsvFileReader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/build/Match.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/build/MatchReader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/build/OutputTarget.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/build/Result.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/build/Summary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/build/WinAnalysis.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/build/analysers/Analyzer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/build/analysers/WinAnalysis.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/build/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/build/models/Match.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/build/models/Result.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/build/output/ConsoleOutput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/build/output/HTMLOutput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/build/output/OutputTarget.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/build/readers/CsvFileReader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/build/readers/DataReader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/build/readers/MatchReader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/football.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/src/Summary.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/src/analysers/Analyzer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/src/analysers/WinAnalysis.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/src/models/Match.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/src/models/Result.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/src/output/ConsoleOutput.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/src/output/HtmlOutput.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/src/output/OutputTarget.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/src/readers/CsvFileReader.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/src/readers/DataReader.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/src/readers/MatchReader.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/.idea/stats.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/build/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/02/e3cc5745002ea9a168aae81b19b505.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/18/f38beaf555fa329e0a6980b71b52ac.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/1c/3c13a13c0b0e26bf443504c7dcdb98.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/24/62ddc35e5bc8c94fa76a984b18af9e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/29/c7c2648ca3e80276f6740e144fbf5a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/2e/80f4132139e5dd428a80844d4ae770.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/3f/6afc0fb62016d7ab5803239a9c37ec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/59/7b437668ae070782a5ab3873cf493b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/5f/0707d470c67942de8e621dc107f349.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/69/1357e5848b7ce9dd2471aba79645c8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/6b/bd820a0dd307397c5fab7e00ac25ee.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/6e/f582304c6fd0f5a498e8a165bdb8e7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/71/65e5f612a8ba0c0c63ef2cd736c676.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/71/a51ae8c5f513cb9c9a381df09dab11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/72/06abbe27b3c90f683556b021bbe153.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/72/fac8f35342a34e1c930ce487180c95.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/7a/d945bf6dc656d900433f429a7dfc53.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/80/d8b265fab97f93563ae19668b5731a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/81/613a4c046cd38ca60404d2e6250938.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/82/59714a926ba664d88472ac3ebeead4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/84/e4deff53f3120ab2c51b78b55ad712.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/93/db0a0a7069e837542c29b8dc36bb3f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/9a/c415425a04352a0da8f3b4855db0d2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/9e/bf0097388ccf7099f6ea888cd18154.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/a1/0ac3d7ee4a69e84bde40a87da41e19.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/a3/0d034bb7bd08739217d371c2814978.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/ad/92f3b0c936bfa591e6eb37d05118d8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/af/942e8275bfa14c17c1139b5c830849.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/b7/9ff15848c3f61272ad8dc73b1e1842.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/b8/cad744d02d04c79d28138fe0ae5a7d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/bd/7fffcc0275b6eec949c3ac31cdd179.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/c1/0f4031c31f87956795f2f973012a53.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/c6/a8e5b6521ec021ebcb053f5271e2d7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/cb/033aba70c5d1c56e03d2eb5b8d3265.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/d1/a0e920247b9874cc2cb515a3263c0d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/d4/288fa7db089a79a28b44114e82c427.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/d5/11b440bc1f1be2060a3a427972a09a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/d8/45086e91ffaa5cf3b9431df038052d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/d9/312aa4f574f17c1e4ba76679d06873.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/da/4c0703ad11ddb9e0170180af417c0e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/e4/ab507e03b0bc59d572347ca796fb30.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/e8/70c4f159d9c5d8f195478120d17511.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/ef/e3db8b3435acbfdba1c069dfb50650.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/fd/eeb3e28cdc0d09d3dfadd5551f6379.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.cache/fe/9edd8d9a9d76d342769ec605d3b7d4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.idea/dictionaries/nalfasi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.idea/web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/src.f10117fe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/src.f10117fe.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/models/ApiSync.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/models/Attributes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/models/Collection.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/models/Eventing.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/models/Model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/models/User.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/CollectionView.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/UserEdit.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/UserForm.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/UserList.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/UserShow.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/View.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YakW6LffaFwgpaciSNXzl4IACz" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c7d99e9-577c-4079-b514-e65d2a04b8d7" name="Default Changelist" comment="" />
+      <created>1583188120336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583188120336</updated>
+      <workItem from="1583188121381" duration="239000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

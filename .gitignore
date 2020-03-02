@@ -1,0 +1,15 @@
+server/node_modules
+sort/node_modules
+stats/node_modules
+template/node_modules
+web/node_modules
+server/.idea
+sort/.idea
+stats/.idea
+template/.idea
+web/.idea
+server/.cache
+sort/.cache
+stats/.cache
+template/.cache
+web/.cache
