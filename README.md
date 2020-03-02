@@ -17,6 +17,8 @@ A template project with concurrently & nodemon (see package.json) which also pro
 ## Web
 A simple web-ui framework to load/modify & save user's data
 
+## Useful Setup Commands
+
 ```bash
 npm init -y # init a new project (generate package.json)
 tsc --init # generate tsconfig.json (assuming TS is installed, generate tsconfig.json file
