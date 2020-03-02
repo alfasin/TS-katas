@@ -13,3 +13,4 @@ sort/.cache
 stats/.cache
 template/.cache
 web/.cache
+.idea
