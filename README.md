@@ -15,7 +15,7 @@ Read a CSV file and analyze it to figure out how many times a specific team won 
 A template project with concurrently & nodemon (see package.json) which also provides basic build/run scripts
 
 ## Web
-A simple web-ui framework to load/modify & save user's data
+A simple web-ui framework to load/modify & save user's data. Use this project to practice Generics.
 
 ## Useful Setup Commands
 
